@@ -13,7 +13,7 @@
             <string>software-package</string>  
             <key>url</key>  
             <!-- http或者https链接的ipa文件地址 -->  
-            <string>https://github.com/leo-ll/MarkdownPhotos/blob/master/EnterpriseAPI/8thManage.ipa</string> 
+            <string>https://raw.githubusercontent.com/leo-ll/MarkdownPhotos/master/EnterpriseAPI/8thManage.ipa</string> 
           </dict>  
           <dict> 
             <key>kind</key>  
