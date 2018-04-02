@@ -22,7 +22,7 @@
             <true/>  
             <key>url</key>  
             <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->  
-            <string>http://192.168.1.237:8080/8thManage/download/androidclient/ios/icon.png</string> 
+            <string></string> 
           </dict>  
           <dict> 
             <key>kind</key>  
@@ -30,8 +30,8 @@
             <key>needs-shine</key>  
             <true/>  
             <key>url</key>  
-            <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->  
-            <string>http://192.168.1.237:8080/8thManage/download/androidclient/ios/icon.png</string> 
+            <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
+            <string></string> 
           </dict> 
         </array>  
         <key>metadata</key>  
